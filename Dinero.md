@@ -1,0 +1,9 @@
+Xbox = 3800
+Controlfreak = 1500
+Iphone 7 = 4800
+Control wii = 2100
+Margo = 3480
+Papi = 1000
+Pollo Domingo = 500
+Mami marina Bryan = 1160
+Mami Marina Brandy = 1160
